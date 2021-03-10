@@ -11,6 +11,6 @@ public class Main {
         System.out.println(singletonLogger.getMessages());
 
         SingletonLogger newSingletonInstance = SingletonLogger.getInstance();
-        System.out.println(singletonLogger.getMessages());
+        System.out.println(newSingletonInstance.getMessages());
     }
 }
