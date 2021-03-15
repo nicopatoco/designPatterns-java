@@ -1,3 +1,8 @@
 # designPatterns
-# Here you can find, some disign patterns example.
-# Also you have a pdf presentation
+## List of design patterns
+- Abstract factory
+- Factory
+- Builder
+- Strategy
+- Singleton
+- Prototype
